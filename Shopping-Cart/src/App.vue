@@ -4,7 +4,7 @@
         <div class="cart-container">
             <div class="cart-list">
                 <div class="cart-list-item">
-                    <img src="@/src/img/DragonLiver.png" alt="Dragon Liver" class="product-image">
+                    <img src="@/assets/img/DragonLiver.png" alt="Dragon Liver" class="product-image">
                     <div class="item-details-with-actions">
                         <div class="item-details">
                             <h2>Dragon Liver</h2>
@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 <div class="cart-list-item">
-                    <img src="@/src/img/GoldenSnitch.png" alt="Golden Snitch" class="product-image">
+                    <img src="@/assets/img/GoldenSnitch.png" alt="Golden Snitch" class="product-image">
                     <div class="item-details-with-actions">
                         <div class="item-details">
                             <h2>Golden Snitch</h2>
